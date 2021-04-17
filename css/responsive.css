@@ -1,0 +1,27 @@
+/* PC */
+@media (min-width: 1024px) {
+.order-form {
+     width: 50%;
+}
+}
+
+/* Tablet && Mobile*/
+@media (max-width: 1023px) {
+
+}
+
+/* Tablet */
+@media (min-width: 740px) and (max-width: 1023px) {
+.order-form {
+    width: 50%;
+}
+}
+
+/* Mobile */
+@media (max-width: 739px ) {
+.order-form {
+    width: 100%;
+    margin: auto;
+}
+    
+}
